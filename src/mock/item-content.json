@@ -1,0 +1,45 @@
+{
+    "item": [
+        {
+            "id":"14789632",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-guonei-n.png",
+            "title": "国内酒店"
+        },
+        {
+            "id":"23698741",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-guowai-n.png",
+            "title": "海外酒店"
+        },
+        {
+            "id":"36987412",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-pingpai-n.png",
+            "title": "品牌酒店"
+        },
+        {
+            "id":"47896321",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-wanle-n.png",
+            "title": "玩乐体验"
+        },
+        {
+            "id":"69874123",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-zhoubian-n.png",
+            "title": "周边游"
+        },
+        {
+            "id":"56321478",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-xiaotuan-n.png",
+            "title": "精品小团"
+        },
+
+        {
+            "id":"98741236",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-sijia-n.png",
+            "title": "私家定制"
+        },
+        {
+            "id":"01478963",
+            "url": "https://res01.feekr.com/ecommerce/minapp/banner/icon-gonglv-n.png",
+            "title": "攻略推荐"
+        }
+    ]
+}
